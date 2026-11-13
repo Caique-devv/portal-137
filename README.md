@@ -39,4 +39,4 @@ A aplicação usa renderização no servidor e uma rota de API para o sorteio. P
 
 ## Créditos
 
-Dados e imagens fornecidos pela [Rick and Morty API](https://rickandmortyapi.com/documentation). Projeto de fã independente, sem afiliação oficial com Rick and Morty.
+Dados e imagens fornecidos pela [Rick and Morty API](https://rickandmortyapi.com/documentation).
